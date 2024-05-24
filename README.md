@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://paulevans78.github.io/thesis/tree/gh-pages">
+  <a href="https://paulevans78.github.io/thesis/">
     <img src="src/assets/me_babyblues.png" alt="Logo" width="100" height="140">
   </a>
 
