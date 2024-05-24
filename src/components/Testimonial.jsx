@@ -22,14 +22,14 @@ const StyledTestimonialMain = styled.section`
     position: relative;
     display: flex;
     flex-direction: column;
-    `;
+`;
 
 const StyledImg = styled.img`
     position: absolute;
     width: 100%;
     height: 100%;
     object-fit: cover;
-    `; 
+`; 
 
 const StyledTestimonialGrid = styled.div`
     display: grid;
@@ -50,7 +50,7 @@ const StyledTestimonialGrid = styled.div`
         "event";
     }
     
-    `;
+`;
 
 const StyledTestimonialContents = styled.div`
     grid-area: testimonial;
@@ -89,7 +89,7 @@ const StyledTestimonialContents = styled.div`
         padding-top: 15px;
         padding-left: 20px;
     } 
-    `;
+`;
 
 const StyledLogoContainer = styled.div`
     grid-area: logo;
@@ -130,7 +130,7 @@ const StyledLogoImg = styled.img`
     @media screen and (max-width: 767px) {
         width: 40%;
     } 
-    `; 
+`; 
 
     const StyledEventHeaderContainer = styled.div`
     display: flex;
