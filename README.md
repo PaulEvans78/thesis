@@ -73,7 +73,7 @@
 <!-- ABOUT THE PROJECT -->
 
 <div align="center">
-  <a href="https://paulevans78.github.io/thesis/tree/gh-pages">
+  <a href="https://paulevans78.github.io/thesis/">
     <img src="src/assets/LipusHero_github.png" alt="LipusPlus hero container. Hammmarby handball player holding a ball." width="100%" height="auto">
   </a>
 
