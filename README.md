@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://paulevans78.github.io/examensarbete/tree/gh-pages">
+  <a href="https://paulevans78.github.io/thesis/">
     <img src="src/assets/me_babyblues.png" alt="Logo" width="100" height="140">
   </a>
 
@@ -38,7 +38,7 @@
 
 
     
-    <a href="https://paulevans78.github.io/examensarbete/tree/gh-pages"></a>
+  
   
 </div>
 
@@ -73,7 +73,7 @@
 <!-- ABOUT THE PROJECT -->
 
 <div align="center">
-  <a href="https://paulevans78.github.io/examensarbete/tree/gh-pages">
+  <a href="https://paulevans78.github.io/thesis/">
     <img src="src/assets/LipusHero_github.png" alt="LipusPlus hero container. Hammmarby handball player holding a ball." width="100%" height="auto">
   </a>
 
@@ -156,7 +156,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo to a destination folder of your choice.
    ```
-   git clone https://github.com/PaulEvans78/portfolio.git
+   git clone https://github.com/PaulEvans78/thesis.git
    ```
 2. Install NPM packages
    ```
@@ -187,7 +187,7 @@ Email: paul.evans.creative@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/paul-evans-3a74605/](https://linkedin.com/in/paul-evans-3a74605/)
 
-Project Link: [https://paulevans78.github.io/examensarbete/](https://paulevans78.github.io/examensarbete/)
+Project Link: [https://paulevans78.github.io/thesis/](https://paulevans78.github.io/thesis/)
 
 
 <!-- WEBSITES -->
@@ -213,15 +213,15 @@ Paul Evans fsf: [Showreel](https://paulevans-dop.com/)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
-[contributors-url]: https://github.com/PaulEvans78/examensarbete/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PaulEvans78/examensarbete.svg?style=for-the-badge
-[forks-url]: https://github.com/PaulEvans78/examensarbete/network/members
-[stars-shield]: https://img.shields.io/github/stars/PaulEvans78/examensarbete.svg?style=for-the-badge
-[stars-url]: https://github.com/PaulEvans78/examensarbete/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PaulEvans78/examensarbete.svg?style=for-the-badge
-[issues-url]: https://github.com/PaulEvans78/examensarbete/issues
+[contributors-url]: https://github.com/PaulEvans78/thesis/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/PaulEvans78/thesis.svg?style=for-the-badge
+[forks-url]: https://github.com/PaulEvans78/thesis/network/members
+[stars-shield]: https://img.shields.io/github/stars/PaulEvans78/thesis.svg?style=for-the-badge
+[stars-url]: https://github.com/PaulEvans78/thesis/stargazers
+[issues-shield]: https://img.shields.io/github/issues/PaulEvans78/thesis.svg?style=for-the-badge
+[issues-url]: https://github.com/PaulEvans78/thesis/issues
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
-[license-url]: https://github.com/PaulEvans78/examensarbete/blob/master/LICENSE.md
+[license-url]: https://github.com/PaulEvans78/thesis/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/paul-evans-3a74605/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
