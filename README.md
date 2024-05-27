@@ -100,7 +100,7 @@ Key questions to answer:
 3- How can we stimulate people to spread the word about the webinar in their surroundings?
 
 
-**Course Criteria:**
+**Frontend Criteria:**
 
 Create a responsive website with two sections, where each section represents different parts and is relevant to the essay. It is important that all parts of the essay have a common thread.
 
