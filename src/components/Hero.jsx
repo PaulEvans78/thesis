@@ -31,7 +31,7 @@ const StyledImg = styled.img`
     height: 100%;
     align-self: flex-start;
     object-fit: cover;
-    `; 
+`; 
 
 const StyledHeroContents = styled.div`
     width: 40%;
