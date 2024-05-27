@@ -100,7 +100,7 @@ Key questions to answer:
 3- How can we stimulate people to spread the word about the webinar in their surroundings?
 
 
-**Course Criteria:**
+**Frontend Criteria:**
 
 Create a responsive website with two sections, where each section represents different parts and is relevant to the essay. It is important that all parts of the essay have a common thread.
 
@@ -147,7 +147,7 @@ Demonstrate an understanding of the different layout options and when they are m
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+This is an example of how to set up this project locally.
 To get a local copy up and running follow these simple example steps.
 
 
