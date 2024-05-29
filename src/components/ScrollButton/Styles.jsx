@@ -14,7 +14,7 @@ height: 20px;
 font-size: 3rem;
 z-index: 99;
 cursor: pointer;
-color: #126ddc;
+color: #1366f7;
 
 @media screen and (max-width: 767px) {
     left: 80%;
