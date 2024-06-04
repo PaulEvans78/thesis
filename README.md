@@ -162,7 +162,15 @@ To get a local copy up and running follow these simple example steps.
    ```
    npm install
    ```
-3. Run the app
+3. Install Styled components
+   ```
+   npm i styled-components
+   ```
+4. Install Icons. import FaArrowCircleUp from react-icons/fa
+   ```
+   npm i react-icons
+   ```
+5. Run the app
    ```
    npm run dev
    ```
