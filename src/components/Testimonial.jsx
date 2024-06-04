@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import styled, { keyframes, css } from "styled-components";
-import testimonialImage from "../assets/martinDolk.png";
-import partnershipLogo from "../assets/hammarbyLogo.png";
+import testimonialImage from "../assets/martinDolk.avif";
+import partnershipLogo from "../assets/hammarbyLogo.avif";
 
 const fadeUp = keyframes`
   0% {

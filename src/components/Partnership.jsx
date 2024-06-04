@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import styled, { keyframes, css } from "styled-components";
-import partnershipImg from "../assets/physioImg.png";
+import partnershipImg from "../assets/physioImg.avif";
 
 const slideInFromRight = keyframes`
   0% {

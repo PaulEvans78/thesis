@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import logo from "../assets/lipusPluslogo.png";
+import logo from "../assets/lipusPluslogo.avif";
 
 const StyledNav = styled.nav`
   padding-left: 80px;

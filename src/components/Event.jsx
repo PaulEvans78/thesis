@@ -1,6 +1,6 @@
 import React, { forwardRef, useEffect, useRef, useState } from "react";
 import styled, { keyframes, css } from "styled-components";
-import hostImg from "../assets/sebastainCarnefeldt.png";
+import hostImg from "../assets/sebastainCarnefeldt.avif";
 import CountdownTimer from "../components/CountdownTimer";
 
 const slideInFromLeft = keyframes`

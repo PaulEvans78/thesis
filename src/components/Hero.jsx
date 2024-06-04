@@ -1,5 +1,5 @@
 import styled, { keyframes } from "styled-components";
-import heroImage from "../assets/heroImage.png";
+import heroImage from "../assets/heroImage.avif";
 import Button from "../components/Button";
 
 const slideInFromLeft = keyframes`
