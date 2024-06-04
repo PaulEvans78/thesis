@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import styled, { keyframes, css } from "styled-components";
 import partnershipImg from "../assets/physioImg.avif";
 

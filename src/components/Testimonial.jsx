@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import styled, { keyframes, css } from "styled-components";
 import testimonialImage from "../assets/martinDolk.avif";
 import partnershipLogo from "../assets/hammarbyLogo.avif";
