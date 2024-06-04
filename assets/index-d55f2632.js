@@ -78,6 +78,7 @@ Error generating stack: `+i.message+`
 `,Dm=U.img`
   text-align: center;
   width: 20%;
+  height: auto;
   margin-right: 1em;
   margin-top: 1em;
   padding-bottom: 0.75em;
@@ -458,6 +459,7 @@ Error generating stack: `+i.message+`
   width: 50%;
 `,P0=U.img`
   width: 80%;
+  height: auto;
   object-fit: cover;
 `,_0=U.div`
   display: flex;
