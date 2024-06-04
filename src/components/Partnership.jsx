@@ -101,7 +101,7 @@ const Partnership = () => {
   return (
     <StyledPartnershipMain>
       <StyledPartnershipContents>
-      <p className="subheading">BATTLING EVERYDAY PAIN IN SPORTS</p>
+        <p className="subheading">BATTLING EVERYDAY PAIN IN SPORTS</p>
 
         <h2>
           Hammarby Handball and LipusPlus® Forge Alliance for Expedited Recovery

@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import styled, { keyframes } from "styled-components";
 import heroImage from "../assets/heroImage.avif";
 import Button from "../components/Button";
@@ -66,27 +67,24 @@ const StyledAnimatedHeading = styled.div`
   animation: ${slideInFromLeft} 1s ease-out 0.5s forwards;
 `;
 
-// const StyledSubHeading = styled.p`
-//   font-size: 20px;
-//   font-weight: 600;
-//   font-style: normal;
-//   line-height: 1.1;
-
-//   @media screen and (max-width: 360px) {
-//     font-size: 18px;
-//   }
-// `;
-
 const Hero = ({ scrollToEvent }) => {
+  const [isImageLoaded, setIsImageLoaded] = useState(false);
+
+  useEffect(() => {
+    const img = new Image();
+    img.src = heroImage;
+    img.onload = () => setIsImageLoaded(true);
+  }, []);
+
   return (
     <StyledHeroMain>
-      <StyledImg
-        src={heroImage}
-        alt="A hammarby handball player in green and white stripes holds a ball."
-      />
-
+      {isImageLoaded && (
+        <StyledImg
+          src={heroImage}
+          alt="A hammarby handball player in green and white stripes holds a ball."
+        />
+      )}
       <StyledHeroContents>
-        {/* <StyledSubHeading>LipusPLUS® IN PROFESSIONAL SPORTS</StyledSubHeading> */}
         <p className="subheading">LipusPLUS® IN PROFESSIONAL SPORTS</p>
 
         <StyledAnimatedHeading>
