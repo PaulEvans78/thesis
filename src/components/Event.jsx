@@ -181,7 +181,7 @@ const Event = forwardRef((props, ref) => {
           </StyledImgContainer>
 
           <StyledIdent>
-            <h6>Broadcasted LIVE only</h6>
+            <p className="subheading">Broadcasted LIVE only</p>
             <p>
               Hosted by Sebastian Carnefelt, Lic. Chiropractor at LipusPlus
               Institute.

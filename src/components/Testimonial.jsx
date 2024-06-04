@@ -212,7 +212,7 @@ const Testimonial = () => {
 
         <StyledEventHeaderContainer>
           <StyledEventHeaderContent>
-            <h5>FREE WEBINAR</h5>
+            <p className="subheading">FREE WEBINAR</p>
 
             <p>Fri 30th August, 2024 between 18.00 - 19.00 CET.</p>
 

@@ -66,6 +66,17 @@ const StyledAnimatedHeading = styled.div`
   animation: ${slideInFromLeft} 1s ease-out 0.5s forwards;
 `;
 
+// const StyledSubHeading = styled.p`
+//   font-size: 20px;
+//   font-weight: 600;
+//   font-style: normal;
+//   line-height: 1.1;
+
+//   @media screen and (max-width: 360px) {
+//     font-size: 18px;
+//   }
+// `;
+
 const Hero = ({ scrollToEvent }) => {
   return (
     <StyledHeroMain>
@@ -75,7 +86,8 @@ const Hero = ({ scrollToEvent }) => {
       />
 
       <StyledHeroContents>
-        <h5>LipusPLUS® IN PROFESSIONAL SPORTS</h5>
+        {/* <StyledSubHeading>LipusPLUS® IN PROFESSIONAL SPORTS</StyledSubHeading> */}
+        <p className="subheading">LipusPLUS® IN PROFESSIONAL SPORTS</p>
 
         <StyledAnimatedHeading>
           <h1>
