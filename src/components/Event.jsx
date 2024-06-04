@@ -82,6 +82,7 @@ const StyledImgContainer = styled.div`
 
 const StyledHostImg = styled.img`
   width: 80%;
+  height: auto;
   object-fit: cover;
 `;
 

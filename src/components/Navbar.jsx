@@ -26,6 +26,7 @@ const StyledNav = styled.nav`
 const StyledImg = styled.img`
   text-align: center;
   width: 20%;
+  height: auto;
   margin-right: 1em;
   margin-top: 1em;
   padding-bottom: 0.75em;
