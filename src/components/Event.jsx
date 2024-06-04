@@ -155,7 +155,7 @@ const Event = forwardRef((props, ref) => {
     <StyledEventMain>
       <StyledEvent ref={contentRef} isInView={isInView}>
         <StyledAboutEvent>
-          <h4>About the Webinar</h4>
+          <h3>About the Webinar</h3>
 
           <p>
             Ligament tears, patellar dislocations, and meniscal injuries are
@@ -192,7 +192,7 @@ const Event = forwardRef((props, ref) => {
 
       <StyledWebinarContainer>
         <StyledCountdownContainer>
-          <h4>Event starting in</h4>
+          <h3>Event starting in</h3>
           <CountdownTimer targetDate={targetDate} />
         </StyledCountdownContainer>
 
