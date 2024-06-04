@@ -89,7 +89,7 @@ Error generating stack: `+i.message+`
   @media screen and (max-width: 478px) {
     width: 40%;
   }
-`,Um=()=>C.jsx(Dm,{children:C.jsx(Fm,{src:Mm,alt:"The company logo LipusPlus."})}),Hm="/thesis/assets/heroImage-f03aa824.png",Vm=U.button`
+`,Um=()=>C.jsx(Dm,{children:C.jsx(Fm,{src:Mm,alt:"The company logo LipusPlus."})}),Hm="/thesis/assets/heroImage-52cf351e.png",Vm=U.button`
   width: 240px;
   margin-top: 40px;
   margin-bottom: 40px;
@@ -155,7 +155,7 @@ Error generating stack: `+i.message+`
 `,Xm=U.div`
   opacity: 0;
   animation: ${Qm} 1s ease-out 0.5s forwards;
-`,Zm=({scrollToEvent:e})=>C.jsxs(Ym,{children:[C.jsx(Gm,{src:Hm,alt:"A hammarby handball player in green and white stripes holds a ball."}),C.jsxs(Km,{children:[C.jsx("p",{className:"subheading",children:"LipusPLUS® IN PROFESSIONAL SPORTS"}),C.jsx(Xm,{children:C.jsx("h1",{children:"“The LipusPlus® enables us to treat players in greater extent and while on the move between games.”"})}),C.jsx("p",{children:"- Anne Hopfgarten"}),C.jsx("p",{children:"Learn more by joining our LipusPlus seminar, hosted by chiropractor Sebastian Carnefeldt."}),C.jsx(Wm,{onClick:e})]})]}),Jm="/thesis/assets/physioImg-cd2ab2bb.png",qm=Oi`
+`,Zm=({scrollToEvent:e})=>C.jsxs(Ym,{children:[C.jsx(Gm,{src:Hm,alt:"A hammarby handball player in green and white stripes holds a ball."}),C.jsxs(Km,{children:[C.jsx("p",{className:"subheading",children:"LipusPLUS® IN PROFESSIONAL SPORTS"}),C.jsx(Xm,{children:C.jsx("h1",{children:"“The LipusPlus® enables us to treat players in greater extent and while on the move between games.”"})}),C.jsx("p",{children:"- Anne Hopfgarten"}),C.jsx("p",{children:"Learn more by joining our LipusPlus seminar, hosted by chiropractor Sebastian Carnefeldt."}),C.jsx(Wm,{onClick:e})]})]}),Jm="/thesis/assets/physioImg-1eff32a4.png",qm=Oi`
   0% {
     transform: translateX(100%);
     opacity: 0;
@@ -214,7 +214,7 @@ Error generating stack: `+i.message+`
   ${({isInView:e})=>e&&Fr`
       animation: ${qm} 1s ease-out forwards;
     `}
-`,r0=()=>{const e=ce.useRef(null),[t,n]=ce.useState(!1);return ce.useEffect(()=>{const r=new IntersectionObserver(l=>{l[0].isIntersecting&&n(!0)},{threshold:.1});return e.current&&r.observe(e.current),()=>{e.current&&r.unobserve(e.current)}},[]),C.jsxs(bm,{children:[C.jsxs(e0,{children:[C.jsx("p",{className:"subheading",children:"BATTLING EVERYDAY PAIN IN SPORTS"}),C.jsx("h2",{children:"Hammarby Handball and LipusPlus® Forge Alliance for Expedited Recovery"}),C.jsx("p",{children:"In a sport marked by frequent injuries due to high-impact movements, such as ligament tears and patellar dislocations, effective diagnosis and treatment are crucial."}),C.jsx("p",{children:"In 2023-2024, Hammarby Handball and LipusPlus® joined forces during a season-long partnership to follow specific players to discover optimal injury treatments, closely monitoring progress and outcomes over time."})]}),C.jsx(t0,{children:C.jsx(n0,{ref:e,src:Jm,alt:"Anne Hopfgarten, Hammarby handball physiotherapist leads a player off the court.",isInView:t})})]})},l0="/thesis/assets/martinDolk-68a2041e.png",i0="/thesis/assets/hammarbyLogo-8800d455.png",o0=Oi`
+`,r0=()=>{const e=ce.useRef(null),[t,n]=ce.useState(!1);return ce.useEffect(()=>{const r=new IntersectionObserver(l=>{l[0].isIntersecting&&n(!0)},{threshold:.1});return e.current&&r.observe(e.current),()=>{e.current&&r.unobserve(e.current)}},[]),C.jsxs(bm,{children:[C.jsxs(e0,{children:[C.jsx("p",{className:"subheading",children:"BATTLING EVERYDAY PAIN IN SPORTS"}),C.jsx("h2",{children:"Hammarby Handball and LipusPlus® Forge Alliance for Expedited Recovery"}),C.jsx("p",{children:"In a sport marked by frequent injuries due to high-impact movements, such as ligament tears and patellar dislocations, effective diagnosis and treatment are crucial."}),C.jsx("p",{children:"In 2023-2024, Hammarby Handball and LipusPlus® joined forces during a season-long partnership to follow specific players to discover optimal injury treatments, closely monitoring progress and outcomes over time."})]}),C.jsx(t0,{children:C.jsx(n0,{ref:e,src:Jm,alt:"Anne Hopfgarten, Hammarby handball physiotherapist leads a player off the court.",isInView:t})})]})},l0="/thesis/assets/martinDolk-f71bd611.png",i0="/thesis/assets/hammarbyLogo-8800d455.png",o0=Oi`
   0% {
     opacity: 0;
     transform: translateY(20px);
