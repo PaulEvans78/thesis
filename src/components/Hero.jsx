@@ -89,7 +89,7 @@ const Hero = ({ scrollToEvent }) => {
 
         <StyledAnimatedHeading>
           <h1>
-            “The LipusPlus® enables us to treat players in greater extent and
+            “The LipusPlus® enables us to treat players to a greater extent and
             while on the move between games.”
           </h1>
         </StyledAnimatedHeading>
