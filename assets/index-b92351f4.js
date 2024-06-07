@@ -156,7 +156,7 @@ Error generating stack: `+i.message+`
 `,Km=U.div`
   opacity: 0;
   animation: ${Qm} 1s ease-out 0.5s forwards;
-`,Jm=({scrollToEvent:e})=>{const[t,n]=le.useState(!1);return le.useEffect(()=>{const r=new Image;r.src=ja,r.onload=()=>n(!0)},[]),C.jsxs(Ym,{children:[t&&C.jsx(Gm,{src:ja,alt:"A hammarby handball player in green and white stripes holds a ball."}),C.jsxs(Xm,{children:[C.jsx("p",{className:"subheading",children:"LipusPLUS® IN PROFESSIONAL SPORTS"}),C.jsx(Km,{children:C.jsx("h1",{children:"“The LipusPlus® enables us to treat players in greater extent and while on the move between games.”"})}),C.jsx("p",{children:"- Anne Hopfgarten"}),C.jsx("p",{children:"Learn more by joining our LipusPlus seminar, hosted by chiropractor Sebastian Carnefeldt."}),C.jsx(Wm,{onClick:e})]})]})},Zm="/thesis/assets/physioImg-e06b8b39.avif",qm=Oi`
+`,Jm=({scrollToEvent:e})=>{const[t,n]=le.useState(!1);return le.useEffect(()=>{const r=new Image;r.src=ja,r.onload=()=>n(!0)},[]),C.jsxs(Ym,{children:[t&&C.jsx(Gm,{src:ja,alt:"A hammarby handball player in green and white stripes holds a ball."}),C.jsxs(Xm,{children:[C.jsx("p",{className:"subheading",children:"LipusPLUS® IN PROFESSIONAL SPORTS"}),C.jsx(Km,{children:C.jsx("h1",{children:"“The LipusPlus® enables us to treat players to a greater extent and while on the move between games.”"})}),C.jsx("p",{children:"- Anne Hopfgarten"}),C.jsx("p",{children:"Learn more by joining our LipusPlus seminar, hosted by chiropractor Sebastian Carnefeldt."}),C.jsx(Wm,{onClick:e})]})]})},Zm="/thesis/assets/physioImg-e06b8b39.avif",qm=Oi`
   0% {
     transform: translateX(100%);
     opacity: 0;
